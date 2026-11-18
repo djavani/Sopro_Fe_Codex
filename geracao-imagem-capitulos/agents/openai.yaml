@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geração de Imagens — Capítulos"
+  short_description: "Prepara textos e capítulos para geração de imagens."
+  default_prompt: "Use $geracao-imagem-capitulos para trabalhar este capítulo do projeto Sopro de Fé."
